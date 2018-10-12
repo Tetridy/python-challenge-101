@@ -30,6 +30,7 @@ print ("List 2  : " + str(list_2))
 
 # overlap = [element for element in a if element in b not in overlap]
 # overlap.sort()
+# cannot remove the duplicates using the codes above
 
 for element in list_1:
     if element in list_2:
