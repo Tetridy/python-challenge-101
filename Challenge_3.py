@@ -16,7 +16,7 @@ b = []
 # number = input("Please input a number as comparator : ")
 
 for element in a:
-    if element < int(number):
+    if element < 5:
         print(element)
         # b.append(element)
 # print(b)
